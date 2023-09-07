@@ -20,6 +20,7 @@ namespace demo
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("OKE CAU");
+            MessageBox.Show("SỬA LẦN 3 KỆ CẬUUUUUUU :))) ");
         }
     }
 }
